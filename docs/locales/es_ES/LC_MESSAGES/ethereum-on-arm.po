@@ -1,0 +1,172 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Diego Losada <dlosada@ethereumonarm.com>, Fernando
+# Collado <fernando@ethereumonarm.com>
+# This file is distributed under the same license as the Ethereum on ARM
+# documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ethereum on ARM documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-22 18:53+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es_ES\n"
+"Language-Team: es_ES <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../ethereum-on-arm/main-features.rst:5
+msgid "Main Features"
+msgstr ""
+
+#: ../../ethereum-on-arm/main-features.rst:7
+msgid "These are the main features of Ethereum on ARM images:"
+msgstr ""
+
+#: ../../ethereum-on-arm/main-features.rst:9
+msgid "Based on Ubuntu 20.04 for ARM64"
+msgstr ""
+
+#: ../../ethereum-on-arm/main-features.rst:10
+msgid "Automatic configuration (network, user account, etc)"
+msgstr ""
+
+#: ../../ethereum-on-arm/main-features.rst:11
+msgid "Automatic USB disk partitioning and formatting"
+msgstr ""
+
+#: ../../ethereum-on-arm/main-features.rst:12
+msgid ""
+"Manages and configure swap memory in order to avoid memory problems (ZRAM"
+" kernel module + a swap file)"
+msgstr ""
+
+#: ../../ethereum-on-arm/main-features.rst:14
+msgid "Automatically starts Ethereum 1.0 sync (Geth)"
+msgstr ""
+
+#: ../../ethereum-on-arm/main-features.rst:15
+msgid ""
+"Includes all major Ethereum 1.0 and Ethereum 2.0 clients with default "
+"configuration"
+msgstr ""
+
+#: ../../ethereum-on-arm/main-features.rst:16
+msgid "Includes an APT repository for installing and upgrading Ethereum software"
+msgstr ""
+
+#: ../../ethereum-on-arm/main-features.rst:17
+msgid "Includes EF eth2.0-deposit-cli tool to start staking process"
+msgstr ""
+
+#: ../../ethereum-on-arm/main-features.rst:18
+msgid "Includes monitoring dashboards based on Grafana / Prometheus"
+msgstr ""
+
+#: ../../ethereum-on-arm/main-features.rst:19
+msgid "Includes UFW firewall"
+msgstr ""
+
+#: ../../ethereum-on-arm/main-goals.rst:5
+msgid "Main Goals"
+msgstr ""
+
+#: ../../ethereum-on-arm/main-goals.rst:7
+msgid ""
+"Like any peer to peer system, Ethereum network health and proper "
+"functioning relies on the total number of nodes (which are currently "
+"about 10-15K nodes). The majority of these nodes are x86 based servers or"
+" desktops, and an important number of them depend on cloud computing "
+"services. This may represent a centralization issue as a significant part"
+" of the infrastructure depends on a centralized service. As stated on "
+"“Mastering Ethereum” by Andreas Antonopoulos and Gavin Wood:"
+msgstr ""
+
+#: ../../ethereum-on-arm/main-goals.rst:13
+msgid ""
+"**“The health, resilience, and censorship resistance of blockchains "
+"depend on having many independently operated and geographically dispersed"
+" full nodes. Each full node can help other new nodes obtain the block "
+"data to bootstrap their operation, as well as offer the operator an "
+"authoritative and independent verification of all transactions and "
+"contracts”.**"
+msgstr ""
+
+#: ../../ethereum-on-arm/sources.rst:5
+msgid "Sources"
+msgstr ""
+
+#: ../../ethereum-on-arm/sources.rst:7
+msgid "You can get the source code in our Github repo:"
+msgstr ""
+
+#: ../../ethereum-on-arm/sources.rst:9
+msgid "https://github.com/diglos/ethereumonarm"
+msgstr ""
+
+#: ../../ethereum-on-arm/sources.rst:11
+msgid "You can find here:"
+msgstr ""
+
+#: ../../ethereum-on-arm/sources.rst:13
+msgid "docs: This Read the Docs based guide"
+msgstr ""
+
+#: ../../ethereum-on-arm/sources.rst:14
+msgid ""
+"fpm-package-builder: Our package creator that builds all Ethereum related"
+" packages"
+msgstr ""
+
+#: ../../ethereum-on-arm/sources.rst:15
+msgid ""
+"image-creation-tool: This directory contains the installation script and "
+"the image builder"
+msgstr ""
+
+#: ../../ethereum-on-arm/sources.rst:17
+msgid "Get more info in our Developer Guide section"
+msgstr ""
+
+#: ../../ethereum-on-arm/why-arm-boards.rst:5
+msgid "Why ARM Boards"
+msgstr ""
+
+#: ../../ethereum-on-arm/why-arm-boards.rst:7
+msgid ""
+"ARM boards are a great choice for running an Ethereum 1.0 / 2.0 node. "
+"Among others:"
+msgstr ""
+
+#: ../../ethereum-on-arm/why-arm-boards.rst:9
+msgid "Ethereum On ARM PnP images, just flash & power up"
+msgstr ""
+
+#: ../../ethereum-on-arm/why-arm-boards.rst:10
+msgid ""
+"Affordable: you can run a full Ethereum 1.0 / Ethereum 2.0 node for less "
+"than $300"
+msgstr ""
+
+#: ../../ethereum-on-arm/why-arm-boards.rst:11
+msgid "Efficient, resources are focused on 1 task: run the node"
+msgstr ""
+
+#: ../../ethereum-on-arm/why-arm-boards.rst:12
+msgid "Low power consumption. A Raspberry Pi consumes less than 10w"
+msgstr ""
+
+#: ../../ethereum-on-arm/why-arm-boards.rst:13
+msgid "Small factor size: Great for running at home as it fits in any corner"
+msgstr ""
+
+#: ../../ethereum-on-arm/why-arm-boards.rst:14
+msgid "Great for running 24/7: Small, affordable and low power comsuption"
+msgstr ""
+

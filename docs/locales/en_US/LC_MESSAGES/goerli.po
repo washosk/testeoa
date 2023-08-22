@@ -1,0 +1,195 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Diego Losada <dlosada@ethereumonarm.com>, Fernando
+# Collado <fernando@ethereumonarm.com>
+# This file is distributed under the same license as the Ethereum on ARM
+# documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ethereum on ARM documentation \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-22 19:04+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en_US\n"
+"Language-Team: en_US <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.11.0\n"
+
+#: ../../goerli/goerli.rst:3
+msgid "About Goerli/Prater fork"
+msgstr ""
+
+#: ../../goerli/goerli.rst:5
+msgid ""
+"**Goerli/Prater** hardfork is the last test before the mainnet upgrade "
+"known as **The Merge** that is schedule for the second week of August "
+"2022."
+msgstr ""
+
+#: ../../goerli/goerli.rst:8
+msgid ""
+"We are supporting this fork by including config files and Systemd "
+"services along with the mainnet clients packages. **Execution Layer "
+"clients run on the Goerli testnet** and **Consensus clients on Prater**."
+msgstr ""
+
+#: ../../goerli/goerli.rst:12
+msgid "What's included"
+msgstr ""
+
+#: ../../goerli/goerli.rst:14
+msgid ""
+"Goerli/Prater configuration: **Goerli/Prater** config files and Systemd "
+"services"
+msgstr ""
+
+#: ../../goerli/goerli.rst:15
+msgid ""
+"**Execution Layer** clients: :guilabel:`Geth`, :guilabel:`Nethermind` and"
+" :guilabel:`Besu`"
+msgstr ""
+
+#: ../../goerli/goerli.rst:16
+msgid ""
+"**Consensus Layer** clients: :guilabel:`Lighthouse`, :guilabel:`Prysm`, "
+":guilabel:`Nimbus` and :guilabel:`Teku`"
+msgstr ""
+
+#: ../../goerli/goerli.rst:18
+msgid ""
+"The image includes all Consensus Layer clients and Execution Layer "
+"binaries **ready to run through Systemd services** and all necessary "
+"tools to make a deposit in the staking contract and generate the keys to "
+"enable a Validator."
+msgstr ""
+
+#: ../../goerli/goerli.rst:23
+msgid "Installation"
+msgstr ""
+
+#: ../../goerli/goerli.rst:25
+msgid ""
+"Packages are already included in the mainnet clients so you need to "
+"install an **Ethereum on ARM image** for your device or update your "
+"mainnet clients if you already have an Ethereum on ARM node running. "
+"Please se the section `Download and install`_"
+msgstr ""
+
+#: ../../goerli/goerli.rst:33
+msgid ""
+"Please check here the `recommended-hardware`_ section as you need to "
+"comply with some requirements for the installer to work such as an USB-"
+"SSD Disk."
+msgstr ""
+
+#: ../../goerli/goerli.rst:40
+msgid ""
+"Remember that you will need to forward/open the following ports for the "
+"clients to work as expected:"
+msgstr ""
+
+#: ../../goerli/goerli.rst:42
+msgid "**30303**: For the Execution Layer clients"
+msgstr ""
+
+#: ../../goerli/goerli.rst:43
+msgid ""
+"**9000**: For Consensus Layer clients except :guilabel:`Prysm` "
+"(:guilabel:`Lighthouse`, :guilabel:`Nimbus`)"
+msgstr ""
+
+#: ../../goerli/goerli.rst:44
+msgid "**12000 (UDP) & 13000 (TCP)**: for Consensus Layer :guilabel:`Prysm`"
+msgstr ""
+
+#: ../../goerli/goerli.rst:48
+msgid "Goerli/Prater configuration"
+msgstr ""
+
+#: ../../goerli/goerli.rst:50
+msgid ""
+"The **network configuration** depends upon ``merge-config`` package. It "
+"contains all necessary files to provide **info to the Execution and "
+"Consensus clients**. Particularly, it creates the ``jwtsecret`` file "
+"which EC and CL use to communicate. The config files are located on "
+"``/etc/ethereum/``."
+msgstr ""
+
+#: ../../goerli/goerli.rst:56
+msgid "Quick start guide"
+msgstr ""
+
+#: ../../goerli/goerli.rst:58
+msgid ""
+"If you already have an **Ethereum on ARM image** installed you can update"
+" your clients with the ``apt-get`` commnand. In order to update all "
+"Execution and Consensus Clients, run:"
+msgstr ""
+
+#: ../../goerli/goerli.rst:66
+msgid "If you installed a fresh image, everything is ready."
+msgstr ""
+
+#: ../../goerli/goerli.rst:69
+msgid ""
+"For :guilabel:`Lighthouse` and :guilabel:`Prysm` you will need to start "
+"an additional service to run a Validator. We'll get to that in the "
+"`\"Enabling a Validator\"` section"
+msgstr ""
+
+#: ../../goerli/goerli.rst:72
+msgid ""
+"In it important to remark that you will need to run **both Execution and "
+"Consensus Layer clients** at the same time in order to run an Ethereum "
+"node after The Merge. This means that **we need 2 Systemd services for "
+"every EL+CL combination** (and 3 if you are running a validator with "
+":guilabel:`Lighthouse` or :guilabel:`Prysm`)."
+msgstr ""
+
+#: ../../goerli/goerli.rst:78
+msgid "Starting the clients"
+msgstr ""
+
+#: ../../goerli/goerli.rst:80
+msgid ""
+"As said, in order to get ready for the Goerli/Prater merge **you need to "
+"start 2 clients**, an **Execution Layer** and a **Consensus Layer**. For "
+"instance, for starting :guilabel:`Geth` and :guilabel:`Lighthouse`, run:"
+msgstr ""
+
+#: ../../goerli/goerli.rst:88
+msgid "To access the logs, use ``journalctl`` for each service, for instance:"
+msgstr ""
+
+#: ../../goerli/goerli.rst:96
+msgid "For stopping a client, use the Systemctl stop directive."
+msgstr ""
+
+#: ../../goerli/goerli.rst:99
+msgid ""
+"All config files are located in the **/etc/ethereum/** with the "
+"``goerli`` suffix for **EL clients** and ``prater`` suffix for **CL "
+"clients**."
+msgstr ""
+
+#: ../../goerli/goerli.rst:104
+msgid ""
+"Please note that **Consensus clients** (except :guilabel:`Nimbus`) are "
+"configured to use the **CheckPoint sync** so they will get in sync very "
+"quickly."
+msgstr ""
+
+#: ../../goerli/goerli.rst:109
+msgid "Enabling a Validator"
+msgstr ""
+
+#: ../../goerli/goerli.rst:111
+msgid "Coming Soon."
+msgstr ""
+
