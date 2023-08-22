@@ -23,7 +23,7 @@ msgstr ""
 
 #: ../../user-guide/about-user-guide.rst:5
 msgid "About user guide"
-msgstr ""
+msgstr "Acerca de la guía del usuario"
 
 #: ../../user-guide/about-user-guide.rst:7
 msgid ""
@@ -34,11 +34,11 @@ msgstr ""
 
 #: ../../user-guide/about-user-guide.rst:10
 msgid "How to manage the Ethereum client Systemd services and other common tasks"
-msgstr ""
+msgstr "Cómo gestionar los servicios Systemd del cliente Ethereum y otras tareas comunes"
 
 #: ../../user-guide/about-user-guide.rst:11
 msgid "What is an Ethereum node and what types nodes are there"
-msgstr ""
+msgstr "Qué es un nodo Ethereum y qué tipos de nodos hay"
 
 #: ../../user-guide/about-user-guide.rst:12
 msgid ""
@@ -54,15 +54,15 @@ msgstr ""
 
 #: ../../user-guide/about-user-guide.rst:14
 msgid "Detailed info about how to set up a Validator (Staking)"
-msgstr ""
+msgstr "Información detallada sobre cómo configurar un Validador (Stake)"
 
 #: ../../user-guide/about-user-guide.rst:15
 msgid "How to run an Ethereum L2 node"
-msgstr ""
+msgstr "Cómo ejecutar un nodo Ethereum L2"
 
 #: ../../user-guide/about-user-guide.rst:16
 msgid "How to run and configure Web 3 clients"
-msgstr ""
+msgstr "Cómo ejecutar y configurar clientes Web 3"
 
 #: ../../user-guide/about-user-guide.rst:20
 msgid ""
@@ -74,7 +74,7 @@ msgstr ""
 
 #: ../../user-guide/about-user-guide.rst:24
 msgid "More info about **The Merge**"
-msgstr ""
+msgstr "Más información sobre **The Merge**"
 
 #: ../../user-guide/about-user-guide.rst:26
 msgid "`launchpad.ethereum.org/en/merge-readiness`_"
@@ -82,13 +82,13 @@ msgstr ""
 
 #: ../../user-guide/managing-clients.rst:5
 msgid "Managing Clients"
-msgstr ""
+msgstr "Gestión de clientes"
 
 #: ../../user-guide/managing-clients.rst:1
 #: ../../user-guide/managing-clients.rst:8
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "Systemd Services"
-msgstr ""
+msgstr "Servicios del sistema"
 
 #: ../../user-guide/managing-clients.rst:10
 msgid ""
@@ -106,27 +106,27 @@ msgstr ""
 
 #: ../../user-guide/managing-clients.rst:17
 msgid "**Enable**: Activate the service to start on boot"
-msgstr ""
+msgstr "**Activar**: activa el servicio para que se inicie al arrancar"
 
 #: ../../user-guide/managing-clients.rst:18
 msgid "**Disable**: Remove the service from boot start"
-msgstr ""
+msgstr "**Desactivar**: eliminar el servicio del inicio"
 
 #: ../../user-guide/managing-clients.rst:19
 msgid "**Start**: Start the client process"
-msgstr ""
+msgstr "**Iniciar**: Iniciar el proceso del cliente"
 
 #: ../../user-guide/managing-clients.rst:20
 msgid "**Stop**: Stop the client process"
-msgstr ""
+msgstr "**Detener**: Detener el proceso del cliente"
 
 #: ../../user-guide/managing-clients.rst:21
 msgid "**Restart**: Restart the clients process"
-msgstr ""
+msgstr "**Reiniciar**: Reinicia el proceso del cliente"
 
 #: ../../user-guide/managing-clients.rst:23
 msgid "The general syntax is:"
-msgstr ""
+msgstr "La sintaxis general es:"
 
 #: ../../user-guide/managing-clients.rst:30
 msgid ""
@@ -148,21 +148,21 @@ msgstr ""
 
 #: ../../user-guide/managing-clients.rst:43
 msgid "These are the list of services available for all clients:"
-msgstr ""
+msgstr "Esta es la lista de servicios disponibles para todos los clientes:"
 
 #: ../../user-guide/managing-clients.rst:45
 msgid "Execution layer Systemd Services"
-msgstr ""
+msgstr "Servicios Systemd de capa de ejecución"
 
 #: ../../user-guide/managing-clients.rst:1
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "Client"
-msgstr ""
+msgstr "Cliente"
 
 #: ../../user-guide/managing-clients.rst:1
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "Systemd Service"
-msgstr ""
+msgstr "Servicio Systemd"
 
 #: ../../user-guide/managing-clients.rst:1
 #: ../../user-guide/running-l1-clients.rst:1
@@ -172,27 +172,27 @@ msgstr ""
 #: ../../user-guide/managing-clients.rst:1
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "`geth`"
-msgstr ""
+msgstr "`get`"
 
 #: ../../user-guide/managing-clients.rst:1
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "`Nethermind`"
-msgstr ""
+msgstr "`Mente inferior`"
 
 #: ../../user-guide/managing-clients.rst:1
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "`nethermind`"
-msgstr ""
+msgstr "`mente inferior`"
 
 #: ../../user-guide/managing-clients.rst:1
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "`Erigon`"
-msgstr ""
+msgstr "`Erigón`"
 
 #: ../../user-guide/managing-clients.rst:1
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "`erigon`"
-msgstr ""
+msgstr "`erigón`"
 
 #: ../../user-guide/managing-clients.rst:1
 msgid "`Reth`"
@@ -205,7 +205,7 @@ msgstr ""
 #: ../../user-guide/managing-clients.rst:1
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "`Hyperledger Besu`"
-msgstr ""
+msgstr "`Hiperledger Besu`"
 
 #: ../../user-guide/managing-clients.rst:1
 #: ../../user-guide/running-l1-clients.rst:1
@@ -214,34 +214,34 @@ msgstr ""
 
 #: ../../user-guide/managing-clients.rst:54
 msgid "Consensus Layer Systemd Services"
-msgstr ""
+msgstr "Servicios Systemd de capa de consenso"
 
 #: ../../user-guide/managing-clients.rst:1
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "`Lighthouse`"
-msgstr ""
+msgstr "`Faro`"
 
 #: ../../user-guide/managing-clients.rst:1
 msgid "`lighthouse-beacon` `lighthouse-validator`"
-msgstr ""
+msgstr "`faro-baliza` `faro-validador`"
 
 #: ../../user-guide/managing-clients.rst:1
 msgid "`prysm`"
-msgstr ""
+msgstr "`prisma`"
 
 #: ../../user-guide/managing-clients.rst:1
 msgid "`prysm-beacon` `prysm-validator`"
-msgstr ""
+msgstr "`prysm-beacon` `prysm-validador`"
 
 #: ../../user-guide/managing-clients.rst:1
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "`Nimbus`"
-msgstr ""
+msgstr "`Nimbo`"
 
 #: ../../user-guide/managing-clients.rst:1
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "`nimbus`"
-msgstr ""
+msgstr "`nimbo`"
 
 #: ../../user-guide/managing-clients.rst:1
 #: ../../user-guide/running-l1-clients.rst:1
@@ -255,7 +255,7 @@ msgstr ""
 
 #: ../../user-guide/managing-clients.rst:64
 msgid "Changing Parameters"
-msgstr ""
+msgstr "Cambio de parámetros"
 
 #: ../../user-guide/managing-clients.rst:66
 msgid ""
@@ -267,7 +267,7 @@ msgstr ""
 
 #: ../../user-guide/managing-clients.rst:72
 msgid "Edit the file by running a text editor (``vim``, ``nano``):"
-msgstr ""
+msgstr "Edite el archivo ejecutando un editor de texto (``vim``, ``nano``):"
 
 #: ../../user-guide/managing-clients.rst:78
 msgid ""
@@ -277,7 +277,7 @@ msgstr ""
 
 #: ../../user-guide/managing-clients.rst:82
 msgid "For changes to take effect, you need to restart the client:"
-msgstr ""
+msgstr "Para que los cambios surtan efecto, debes reiniciar el cliente:"
 
 #: ../../user-guide/managing-clients.rst:90
 msgid ""
@@ -294,15 +294,15 @@ msgstr ""
 
 #: ../../user-guide/managing-clients.rst:99
 msgid "Updating Clients"
-msgstr ""
+msgstr "Actualizando Clientes"
 
 #: ../../user-guide/managing-clients.rst:102
 msgid "APT repository"
-msgstr ""
+msgstr "repositorio APT"
 
 #: ../../user-guide/managing-clients.rst:106
 msgid "If you see this warning running APT:"
-msgstr ""
+msgstr "Si ve esta advertencia ejecutando APT:"
 
 #: ../../user-guide/managing-clients.rst:108
 msgid ""
@@ -312,7 +312,7 @@ msgstr ""
 
 #: ../../user-guide/managing-clients.rst:110
 msgid "run the following command:"
-msgstr ""
+msgstr "ejecute el siguiente comando:"
 
 #: ../../user-guide/managing-clients.rst:118
 msgid ""
@@ -323,7 +323,7 @@ msgstr ""
 
 #: ../../user-guide/managing-clients.rst:126
 msgid "If you want to run the new version, restart the service by running:"
-msgstr ""
+msgstr "Si desea ejecutar la nueva versión, reinicie el servicio ejecutando:"
 
 #: ../../user-guide/managing-clients.rst:132
 msgid ""
@@ -334,7 +334,7 @@ msgstr ""
 
 #: ../../user-guide/managing-clients.rst:139
 msgid "The APT repository is browsable so you can download a package manually:"
-msgstr ""
+msgstr "El repositorio APT es navegable para que puedas descargar un paquete manualmente:"
 
 #: ../../user-guide/managing-clients.rst:141
 msgid "`https://apt.ethereumonarm.com/pool/main`_"
@@ -342,31 +342,31 @@ msgstr ""
 
 #: ../../user-guide/managing-clients.rst:146
 msgid "Available Packages"
-msgstr ""
+msgstr "Paquetes disponibles"
 
 #: ../../user-guide/managing-clients.rst:148
 msgid "These are the available packages:"
-msgstr ""
+msgstr "Estos son los paquetes disponibles:"
 
 #: ../../user-guide/managing-clients.rst:150
 msgid "**L1 clients**"
-msgstr ""
+msgstr "**Clientes L1**"
 
 #: ../../user-guide/managing-clients.rst:152
 msgid "*Execution Layer clients*"
-msgstr ""
+msgstr "*Clientes de capa de ejecución*"
 
 #: ../../user-guide/managing-clients.rst:154
 msgid "geth"
-msgstr ""
+msgstr "get"
 
 #: ../../user-guide/managing-clients.rst:155
 msgid "nethermind"
-msgstr ""
+msgstr "mente inferior"
 
 #: ../../user-guide/managing-clients.rst:156
 msgid "erigon"
-msgstr ""
+msgstr "erigo"
 
 #: ../../user-guide/managing-clients.rst:157
 msgid "besu"
@@ -378,15 +378,15 @@ msgstr ""
 
 #: ../../user-guide/managing-clients.rst:160
 msgid "*Consensus Layer clients*"
-msgstr ""
+msgstr "*Clientes de capa de consenso*"
 
 #: ../../user-guide/managing-clients.rst:162
 msgid "lighthouse"
-msgstr ""
+msgstr "faro"
 
 #: ../../user-guide/managing-clients.rst:163
 msgid "prysm"
-msgstr ""
+msgstr "prisma"
 
 #: ../../user-guide/managing-clients.rst:164
 msgid "teku"
@@ -394,43 +394,43 @@ msgstr ""
 
 #: ../../user-guide/managing-clients.rst:165
 msgid "nimbus"
-msgstr ""
+msgstr "nimbo"
 
 #: ../../user-guide/managing-clients.rst:167
 msgid "**L2 clients**"
-msgstr ""
+msgstr "**Clientes L2**"
 
 #: ../../user-guide/managing-clients.rst:169
 msgid "*Polygon*"
-msgstr ""
+msgstr "*Polígono*"
 
 #: ../../user-guide/managing-clients.rst:171
 msgid "polygon-heimdall"
-msgstr ""
+msgstr "polígono-heimdall"
 
 #: ../../user-guide/managing-clients.rst:172
 msgid "polygon-bor"
-msgstr ""
+msgstr "polígono-bor"
 
 #: ../../user-guide/managing-clients.rst:174
 msgid "*Optimism*"
-msgstr ""
+msgstr "*Optimismo*"
 
 #: ../../user-guide/managing-clients.rst:176
 msgid "optimism-l2geth"
-msgstr ""
+msgstr "optimismo-l2geth"
 
 #: ../../user-guide/managing-clients.rst:177
 msgid "optimism-op-geth"
-msgstr ""
+msgstr "optimismo-op-geth"
 
 #: ../../user-guide/managing-clients.rst:178
 msgid "optimism-op-node"
-msgstr ""
+msgstr "optimismo-op-nodo"
 
 #: ../../user-guide/managing-clients.rst:180
 msgid "*Arbitrum*"
-msgstr ""
+msgstr "*Arbitro*"
 
 #: ../../user-guide/managing-clients.rst:182
 msgid "arbitrum-nitro"
@@ -442,7 +442,7 @@ msgstr ""
 
 #: ../../user-guide/managing-clients.rst:186
 msgid "papyrus"
-msgstr ""
+msgstr "papiro"
 
 #: ../../user-guide/managing-clients.rst:187
 msgid "juno"
@@ -450,11 +450,11 @@ msgstr ""
 
 #: ../../user-guide/managing-clients.rst:189
 msgid "**Web 3**"
-msgstr ""
+msgstr "**Red 3**"
 
 #: ../../user-guide/managing-clients.rst:191
 msgid "bee"
-msgstr ""
+msgstr "abeja"
 
 #: ../../user-guide/managing-clients.rst:192
 msgid "kubo"
@@ -462,19 +462,19 @@ msgstr ""
 
 #: ../../user-guide/managing-clients.rst:193
 msgid "status"
-msgstr ""
+msgstr "estado"
 
 #: ../../user-guide/managing-clients.rst:195
 msgid "**Infra**"
-msgstr ""
+msgstr "**Infrarrojos**"
 
 #: ../../user-guide/managing-clients.rst:197
 msgid "staking-deposit-cli"
-msgstr ""
+msgstr "apuesta-depósito-cli"
 
 #: ../../user-guide/managing-clients.rst:198
 msgid "mev-boost"
-msgstr ""
+msgstr "mev-impulso"
 
 #: ../../user-guide/managing-clients.rst:201
 msgid ""
@@ -485,11 +485,11 @@ msgstr ""
 
 #: ../../user-guide/managing-clients.rst:204
 msgid "See our developer guide section if you want to build you own packages."
-msgstr ""
+msgstr "Consulte nuestra sección de guía para desarrolladores si desea crear sus propios paquetes."
 
 #: ../../user-guide/managing-clients.rst:207
 msgid "Getting Logs"
-msgstr ""
+msgstr "Obteniendo registros"
 
 #: ../../user-guide/managing-clients.rst:209
 msgid ""
@@ -499,11 +499,11 @@ msgstr ""
 
 #: ../../user-guide/managing-clients.rst:216
 msgid "You can of course take a look at ``/var/log/syslog``:"
-msgstr ""
+msgstr "Por supuesto, puedes echar un vistazo a ``/var/log/syslog``:"
 
 #: ../../user-guide/managing-clients.rst:223
 msgid "Monitoring Dashboards"
-msgstr ""
+msgstr "Paneles de control"
 
 #: ../../user-guide/managing-clients.rst:225
 msgid ""
@@ -514,7 +514,7 @@ msgstr ""
 
 #: ../../user-guide/mev-boost.rst:5
 msgid "MEV boost"
-msgstr ""
+msgstr "impulso MEV"
 
 #: ../../user-guide/mev-boost.rst:7
 msgid ""
@@ -539,11 +539,11 @@ msgstr ""
 
 #: ../../user-guide/mev-boost.rst:16
 msgid "As a point of reference, we use the `EthStaker relay list`_"
-msgstr ""
+msgstr "Como punto de referencia, utilizamos la `lista de retransmisiones de EthStaker`_"
 
 #: ../../user-guide/mev-boost.rst:21
 msgid "Using MEV"
-msgstr ""
+msgstr "Usando MEV"
 
 #: ../../user-guide/mev-boost.rst:23
 msgid ""
@@ -560,19 +560,19 @@ msgstr ""
 
 #: ../../user-guide/mev-boost.rst:33
 msgid "To start the service, type:"
-msgstr ""
+msgstr "Para iniciar el servicio, escriba:"
 
 #: ../../user-guide/mev-boost.rst:39
 msgid "You need to configure your **Consensus Layer** clients to use MEV."
-msgstr ""
+msgstr "Necesita configurar sus clientes **Consensus Layer** para usar MEV."
 
 #: ../../user-guide/mev-boost.rst:42
 msgid "Configuring CL clients"
-msgstr ""
+msgstr "Configuración de clientes CL"
 
 #: ../../user-guide/mev-boost.rst:44
 msgid "Edit the CL config files and add the data described below."
-msgstr ""
+msgstr "Edite los archivos de configuración CL y agregue los datos que se describen a continuación."
 
 #: ../../user-guide/mev-boost.rst:47
 msgid ""
@@ -585,29 +585,29 @@ msgstr ""
 
 #: ../../user-guide/mev-boost.rst:51
 msgid "**We will be using** ``localhost`` **in the examples.**"
-msgstr ""
+msgstr "**Usaremos** ``localhost`` **en los ejemplos.**"
 
 #: ../../user-guide/mev-boost.rst:54 ../../user-guide/running-l1-clients.rst:83
 msgid "Lighthouse"
-msgstr ""
+msgstr "Faro"
 
 #: ../../user-guide/mev-boost.rst:56 ../../user-guide/mev-boost.rst:87
 #: ../../user-guide/mev-boost.rst:106
 msgid "Edit the Beacon config file:"
-msgstr ""
+msgstr "Edite el archivo de configuración de Beacon:"
 
 #: ../../user-guide/mev-boost.rst:62
 msgid "Add the flag ``--builder http://localhost:18550`` at the end of the file."
-msgstr ""
+msgstr "Agregue la bandera ``--builder http://localhost:18550`` al final del archivo."
 
 #: ../../user-guide/mev-boost.rst:64 ../../user-guide/mev-boost.rst:95
 #: ../../user-guide/mev-boost.rst:114
 msgid "Edit the Validator config file:"
-msgstr ""
+msgstr "Edite el archivo de configuración del Validador:"
 
 #: ../../user-guide/mev-boost.rst:70
 msgid "Add the flag ``--builder-proposals``at the end of the file."
-msgstr ""
+msgstr "Agregue la bandera ``--builder-proposals``al final del archivo."
 
 #: ../../user-guide/mev-boost.rst:73
 #: ../../user-guide/running-l1-clients.rst:139
@@ -616,7 +616,7 @@ msgstr ""
 
 #: ../../user-guide/mev-boost.rst:75
 msgid "Edit the Teku config file:"
-msgstr ""
+msgstr "Edite el archivo de configuración de Teku:"
 
 #: ../../user-guide/mev-boost.rst:81
 msgid ""
@@ -627,7 +627,7 @@ msgstr ""
 #: ../../user-guide/mev-boost.rst:85
 #: ../../user-guide/running-l1-clients.rst:111
 msgid "Prysm"
-msgstr ""
+msgstr "Prisma"
 
 #: ../../user-guide/mev-boost.rst:93
 msgid ""
@@ -637,12 +637,12 @@ msgstr ""
 
 #: ../../user-guide/mev-boost.rst:101
 msgid "Add the flag ``--enable-builder`` at the end of the file."
-msgstr ""
+msgstr "Agregue la bandera ``--enable-builder`` al final del archivo."
 
 #: ../../user-guide/mev-boost.rst:104
 #: ../../user-guide/running-l1-clients.rst:170
 msgid "Nimbus"
-msgstr ""
+msgstr "Nimbo"
 
 #: ../../user-guide/mev-boost.rst:112
 msgid ""
@@ -652,23 +652,23 @@ msgstr ""
 
 #: ../../user-guide/mev-boost.rst:120
 msgid "Add the flag ``--payload-builder=true`` at the end of the file."
-msgstr ""
+msgstr "Agregue la bandera ``--payload-builder=true`` al final del archivo."
 
 #: ../../user-guide/node-types.rst:5
 msgid "Ethereum nodes"
-msgstr ""
+msgstr "nodos Ethereum"
 
 #: ../../user-guide/node-types.rst:7
 msgid "There are 2 types of Ethereum nodes:"
-msgstr ""
+msgstr "Hay 2 tipos de nodos Ethereum:"
 
 #: ../../user-guide/node-types.rst:9
 msgid "Layer 1 nodes"
-msgstr ""
+msgstr "Nodos de capa 1"
 
 #: ../../user-guide/node-types.rst:10
 msgid "Layer 2 nodes"
-msgstr ""
+msgstr "Nodos de capa 2"
 
 #: ../../user-guide/node-types.rst:12
 msgid ""
@@ -687,7 +687,7 @@ msgstr ""
 
 #: ../../user-guide/node-types.rst:19
 msgid "Layer 1 node"
-msgstr ""
+msgstr "nodo de capa 1"
 
 #: ../../user-guide/node-types.rst:21
 msgid ""
@@ -704,11 +704,11 @@ msgstr ""
 
 #: ../../user-guide/node-types.rst:27
 msgid "There are three node setups that you can run with your ARM board:"
-msgstr ""
+msgstr "Hay tres configuraciones de nodos que puedes ejecutar con tu placa ARM:"
 
 #: ../../user-guide/node-types.rst:29
 msgid "A **Full** Ethereum node (Execution Layer + Consensus Layer Beacon Chain)"
-msgstr ""
+msgstr "Un nodo Ethereum **completo** (cadena de baliza de capa de consenso de capa de ejecución)"
 
 #: ../../user-guide/node-types.rst:30
 msgid ""
@@ -724,15 +724,15 @@ msgstr ""
 
 #: ../../user-guide/node-types.rst:34
 msgid "Full Ethereum node"
-msgstr ""
+msgstr "nodo Ethereum completo"
 
 #: ../../user-guide/node-types.rst:36 ../../user-guide/node-types.rst:57
 msgid "Definitions from `ethereum.org`_"
-msgstr ""
+msgstr "Definiciones de `ethereum.org`_"
 
 #: ../../user-guide/node-types.rst:38
 msgid "Stores full blockchain data (although this is periodically pruned so"
-msgstr ""
+msgstr "Almacena datos completos de blockchain (aunque esto se elimina periódicamente para"
 
 #: ../../user-guide/node-types.rst:39
 msgid ""
@@ -759,7 +759,7 @@ msgstr ""
 
 #: ../../user-guide/node-types.rst:55
 msgid "Archive Ethereum node"
-msgstr ""
+msgstr "Archivar nodo Ethereum"
 
 #: ../../user-guide/node-types.rst:59
 msgid ""
@@ -786,7 +786,7 @@ msgstr ""
 
 #: ../../user-guide/node-types.rst:69
 msgid "Staking node"
-msgstr ""
+msgstr "nodo de replanteo"
 
 #: ../../user-guide/node-types.rst:71
 msgid ""
@@ -799,7 +799,7 @@ msgstr ""
 
 #: ../../user-guide/node-types.rst:76
 msgid "You will need:"
-msgstr ""
+msgstr "Necesitarás:"
 
 #: ../../user-guide/node-types.rst:78
 msgid ""
@@ -809,7 +809,7 @@ msgstr ""
 
 #: ../../user-guide/node-types.rst:79
 msgid "A Consensus Layer Validator"
-msgstr ""
+msgstr "Un validador de capa de consenso"
 
 #: ../../user-guide/node-types.rst:80
 #: ../../user-guide/running-l1-clients.rst:367
@@ -818,7 +818,7 @@ msgstr ""
 
 #: ../../user-guide/node-types.rst:85
 msgid "Layer 2 node"
-msgstr ""
+msgstr "nodo de capa 2"
 
 #: ../../user-guide/node-types.rst:87
 msgid ""
@@ -839,19 +839,19 @@ msgstr ""
 
 #: ../../user-guide/node-types.rst:95
 msgid "Ethereum on ARM supports the following L2 solutions:"
-msgstr ""
+msgstr "Ethereum en ARM admite las siguientes soluciones L2:"
 
 #: ../../user-guide/node-types.rst:97 ../../user-guide/running-l2-clients.rst:6
 msgid "Polygon_"
-msgstr ""
+msgstr "Polígono_"
 
 #: ../../user-guide/node-types.rst:98 ../../user-guide/running-l2-clients.rst:7
 msgid "Arbitrum_"
-msgstr ""
+msgstr "Arbitraje_"
 
 #: ../../user-guide/node-types.rst:99 ../../user-guide/running-l2-clients.rst:8
 msgid "Optimism_"
-msgstr ""
+msgstr "Optimismo_"
 
 #: ../../user-guide/node-types.rst:100
 #: ../../user-guide/running-l2-clients.rst:9
@@ -865,7 +865,7 @@ msgstr ""
 
 #: ../../user-guide/running-l1-clients.rst:8
 msgid "Running Layer 1 nodes"
-msgstr ""
+msgstr "Ejecutando nodos de Capa 1"
 
 #: ../../user-guide/running-l1-clients.rst:10
 msgid ""
@@ -876,7 +876,7 @@ msgstr ""
 
 #: ../../user-guide/running-l1-clients.rst:13
 msgid "Very briefly, you have to:"
-msgstr ""
+msgstr "Muy brevemente, tienes que:"
 
 #: ../../user-guide/running-l1-clients.rst:15
 msgid ""
@@ -886,11 +886,11 @@ msgstr ""
 
 #: ../../user-guide/running-l1-clients.rst:16
 msgid "**Wait** for the Beacon Chain to get in sync."
-msgstr ""
+msgstr "**Espera** a que Beacon Chain se sincronice."
 
 #: ../../user-guide/running-l1-clients.rst:17
 msgid "**Run and sync an Execution Client**."
-msgstr ""
+msgstr "**Ejecutar y sincronizar un cliente de ejecución**."
 
 #: ../../user-guide/running-l1-clients.rst:20
 msgid ""
@@ -901,23 +901,23 @@ msgstr ""
 
 #: ../../user-guide/running-l1-clients.rst:23
 msgid "See below for further details."
-msgstr ""
+msgstr "Consulte a continuación para obtener más detalles."
 
 #: ../../user-guide/running-l1-clients.rst:26
 msgid "Consensus Layer Nodes"
-msgstr ""
+msgstr "Nodos de capa de consenso"
 
 #: ../../user-guide/running-l1-clients.rst:28
 msgid "The Consensus Layer node consists of two separate clients:"
-msgstr ""
+msgstr "El nodo Consensus Layer consta de dos clientes separados:"
 
 #: ../../user-guide/running-l1-clients.rst:30
 msgid "The Beacon Chain client"
-msgstr ""
+msgstr "El cliente de Beacon Chain"
 
 #: ../../user-guide/running-l1-clients.rst:31
 msgid "The Validator client"
-msgstr ""
+msgstr "El cliente Validador"
 
 #: ../../user-guide/running-l1-clients.rst:33
 msgid ""
@@ -950,7 +950,7 @@ msgstr ""
 
 #: ../../user-guide/running-l1-clients.rst:45
 msgid "Beacon Chain"
-msgstr ""
+msgstr "Cadena de baliza"
 
 #: ../../user-guide/running-l1-clients.rst:47
 msgid ""
@@ -976,7 +976,7 @@ msgstr ""
 
 #: ../../user-guide/running-l1-clients.rst:58
 msgid "Checkpoint Sync"
-msgstr ""
+msgstr "Sincronización del punto de control"
 
 #: ../../user-guide/running-l1-clients.rst:60
 msgid ""
@@ -986,43 +986,43 @@ msgstr ""
 
 #: ../../user-guide/running-l1-clients.rst:64
 msgid "Supported Clients"
-msgstr ""
+msgstr "Clientes admitidos"
 
 #: ../../user-guide/running-l1-clients.rst:66
 msgid "Ethereum on ARM supports the main Consensus Layer clients available."
-msgstr ""
+msgstr "Ethereum en ARM admite los principales clientes de Consensus Layer disponibles."
 
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "Official Binary"
-msgstr ""
+msgstr "Binario oficial"
 
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "Language"
-msgstr ""
+msgstr "Idioma"
 
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "Home"
-msgstr ""
+msgstr "Inicio"
 
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "`Yes`"
-msgstr ""
+msgstr "`Sí`"
 
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "`Rust`"
-msgstr ""
+msgstr "`óxido`"
 
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "lighthouse-book.sigmaprime.io_"
-msgstr ""
+msgstr "libro-faro.sigmaprime.io_"
 
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "`Prysm`"
-msgstr ""
+msgstr "`Prisma`"
 
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "`Go`"
-msgstr ""
+msgstr "`Ir`"
 
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "docs.prylabs.network_"
@@ -1034,7 +1034,7 @@ msgstr ""
 
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "nimbus.team_"
-msgstr ""
+msgstr "nimbus.equipo_"
 
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "`Java`"
@@ -1042,31 +1042,31 @@ msgstr ""
 
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "consensys.net_"
-msgstr ""
+msgstr "consenso.net_"
 
 #: ../../user-guide/running-l1-clients.rst:85
 msgid ":guilabel:`Lighthouse` is a full CL client written in Rust."
-msgstr ""
+msgstr "guilabel:`Lighthouse` es un cliente CL completo escrito en Rust."
 
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "Home Directory"
-msgstr ""
+msgstr "Directorio de inicio"
 
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "Config Files"
-msgstr ""
+msgstr "Archivos de configuración"
 
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "Default TCP/UDP Port"
-msgstr ""
+msgstr "Puerto TCP/UDP predeterminado"
 
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "`lighthouse-beacon lighthouse-validator`"
-msgstr ""
+msgstr "`faro-baliza faro-validador`"
 
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "`/home/ethereum/.lighthouse`"
-msgstr ""
+msgstr "`/home/ethereum/.faro`"
 
 #: ../../user-guide/running-l1-clients.rst:1
 msgid ""
@@ -1083,21 +1083,21 @@ msgstr ""
 #: ../../user-guide/running-l1-clients.rst:148
 #: ../../user-guide/running-l1-clients.rst:189
 msgid "1.- Port forwarding"
-msgstr ""
+msgstr "1.- Reenvío de puertos"
 
 #: ../../user-guide/running-l1-clients.rst:95
 msgid "You need to open the 9000 port in your router (both UDP and TCP)"
-msgstr ""
+msgstr "Necesitas abrir el puerto 9000 en tu enrutador (tanto UDP como TCP)"
 
 #: ../../user-guide/running-l1-clients.rst:97
 #: ../../user-guide/running-l1-clients.rst:124
 msgid "2.- Start the beacon chain"
-msgstr ""
+msgstr "2.- Iniciar la cadena de balizas"
 
 #: ../../user-guide/running-l1-clients.rst:99
 #: ../../user-guide/running-l1-clients.rst:126
 msgid "Under the ethereum account, run:"
-msgstr ""
+msgstr "Bajo la cuenta de ethereum, ejecute:"
 
 #: ../../user-guide/running-l1-clients.rst:105
 msgid ""
@@ -1113,11 +1113,11 @@ msgstr ""
 
 #: ../../user-guide/running-l1-clients.rst:113
 msgid ":guilabel:`Prysm` is a full Consensus Layer client written in Go."
-msgstr ""
+msgstr "guilabel:`Prysm` es un cliente de Consensus Layer completo escrito en Go."
 
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "`prysm-beacon prysm-validator`"
-msgstr ""
+msgstr "`prysm-beacon validador-prysm`"
 
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "`/home/ethereum/.eth2`"
@@ -1151,11 +1151,11 @@ msgstr ""
 
 #: ../../user-guide/running-l1-clients.rst:141
 msgid ":guilabel:`Teku` is a full Consensus Layer client written in Java."
-msgstr ""
+msgstr "guilabel:`Teku` es un cliente de Consensus Layer completo escrito en Java."
 
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "Config File"
-msgstr ""
+msgstr "Archivo de configuración"
 
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "`/home/ethereum/.teku/data_teku`"
@@ -1168,11 +1168,11 @@ msgstr ""
 #: ../../user-guide/running-l1-clients.rst:150
 #: ../../user-guide/running-l1-clients.rst:191
 msgid "You need to open the 9000 port (both UDP and TCP)"
-msgstr ""
+msgstr "Necesitas abrir el puerto 9000 (tanto UDP como TCP)"
 
 #: ../../user-guide/running-l1-clients.rst:152
 msgid "2.- Start the Beacon Chain and the Validator"
-msgstr ""
+msgstr "2.- Iniciar la Cadena de Baliza y el Validador"
 
 #: ../../user-guide/running-l1-clients.rst:154
 msgid ""
@@ -1201,11 +1201,11 @@ msgstr ""
 
 #: ../../user-guide/running-l1-clients.rst:180
 msgid "**You need to stop the nimbus service before upgrading to 23.1.0**"
-msgstr ""
+msgstr "**Debes detener el servicio nimbus antes de actualizar a 23.1.0**"
 
 #: ../../user-guide/running-l1-clients.rst:182
 msgid ":guilabel:`Nimbus` is a full Consensus Layer client written in Nim."
-msgstr ""
+msgstr "guilabel:`Nimbus` es un cliente de Consensus Layer completo escrito en Nim."
 
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "`/home/ethereum/.nimbus-beacon /home/ethereum/.nimbus-validator`"
@@ -1223,7 +1223,7 @@ msgstr ""
 
 #: ../../user-guide/running-l1-clients.rst:206
 msgid "Enable Checkpoint Sync."
-msgstr ""
+msgstr "Habilitar sincronización de puntos de control."
 
 #: ../../user-guide/running-l1-clients.rst:208
 msgid ""
@@ -1233,11 +1233,11 @@ msgstr ""
 
 #: ../../user-guide/running-l1-clients.rst:214
 msgid "Wait for the command to finish."
-msgstr ""
+msgstr "Espere a que finalice el comando."
 
 #: ../../user-guide/running-l1-clients.rst:216
 msgid "Start the Nimbus Beacon Chain service:"
-msgstr ""
+msgstr "Inicie el servicio Nimbus Beacon Chain:"
 
 #: ../../user-guide/running-l1-clients.rst:222
 msgid ""
@@ -1247,7 +1247,7 @@ msgstr ""
 
 #: ../../user-guide/running-l1-clients.rst:225
 msgid "Execution Layer nodes"
-msgstr ""
+msgstr "Nodos de capa de ejecución"
 
 #: ../../user-guide/running-l1-clients.rst:227
 msgid ""
@@ -1258,15 +1258,15 @@ msgstr ""
 
 #: ../../user-guide/running-l1-clients.rst:231
 msgid "Supported clients"
-msgstr ""
+msgstr "Clientes soportados"
 
 #: ../../user-guide/running-l1-clients.rst:233
 msgid "Ethereum on ARM supports all available Execution Layer clients."
-msgstr ""
+msgstr "Ethereum en ARM admite todos los clientes de capa de ejecución disponibles."
 
 #: ../../user-guide/running-l1-clients.rst:235
 msgid "Execution Layer Supported Clients"
-msgstr ""
+msgstr "Clientes compatibles con la capa de ejecución"
 
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "geth.ethereum.org_"
@@ -1278,11 +1278,11 @@ msgstr ""
 
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "nethermind.io_"
-msgstr ""
+msgstr "mente inferior.io_"
 
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "`No (crosscompiled)`"
-msgstr ""
+msgstr "`No (compilación cruzada)`"
 
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "`github.com/ledgerwatch/erigon`_"
@@ -1326,15 +1326,15 @@ msgstr ""
 
 #: ../../user-guide/running-l1-clients.rst:266
 msgid "You can start the client by running:"
-msgstr ""
+msgstr "Puedes iniciar el cliente ejecutando:"
 
 #: ../../user-guide/running-l1-clients.rst:272
 msgid "For further info of how the node is doing you can use Systemd journal:"
-msgstr ""
+msgstr "Para obtener más información sobre cómo está funcionando el nodo, puede utilizar el diario Systemd:"
 
 #: ../../user-guide/running-l1-clients.rst:279
 msgid "Nethermind"
-msgstr ""
+msgstr "mente inferior"
 
 #: ../../user-guide/running-l1-clients.rst:281
 msgid ""
@@ -1354,11 +1354,11 @@ msgstr ""
 #: ../../user-guide/running-l1-clients.rst:302
 #: ../../user-guide/running-l1-clients.rst:316
 msgid "In order to start the client run:"
-msgstr ""
+msgstr "Para iniciar el cliente, ejecute:"
 
 #: ../../user-guide/running-l1-clients.rst:295
 msgid "Hyperledger Besu"
-msgstr ""
+msgstr "Hiperledger Besu"
 
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "`/home/ethereum/.besu`"
@@ -1370,7 +1370,7 @@ msgstr ""
 
 #: ../../user-guide/running-l1-clients.rst:309
 msgid "Erigon"
-msgstr ""
+msgstr "Erigón"
 
 #: ../../user-guide/running-l1-clients.rst:1
 msgid "`/home/ethereum/.erigon`"
@@ -1389,7 +1389,7 @@ msgstr ""
 
 #: ../../user-guide/running-l1-clients.rst:327
 msgid "Staking"
-msgstr ""
+msgstr "Replanteo"
 
 #: ../../user-guide/running-l1-clients.rst:331
 msgid ""
@@ -1444,15 +1444,15 @@ msgstr ""
 
 #: ../../user-guide/running-l1-clients.rst:363
 msgid "Staking Requirements"
-msgstr ""
+msgstr "Requisitos de apuesta"
 
 #: ../../user-guide/running-l1-clients.rst:365
 msgid "In order to stake and run a validator you will need:"
-msgstr ""
+msgstr "Para apostar y ejecutar un validador necesitarás:"
 
 #: ../../user-guide/running-l1-clients.rst:368
 msgid "A synced Ethereum Execution Layer client"
-msgstr ""
+msgstr "Un cliente de capa de ejecución de Ethereum sincronizado"
 
 #: ../../user-guide/running-l1-clients.rst:369
 msgid ""
@@ -1485,11 +1485,11 @@ msgstr ""
 
 #: ../../user-guide/running-l1-clients.rst:390
 msgid "Validator setup"
-msgstr ""
+msgstr "configuración del validador"
 
 #: ../../user-guide/running-l1-clients.rst:392
 msgid "Remember that you need 32 ETH for each validator you want to run."
-msgstr ""
+msgstr "Recuerda que necesitas 32 ETH por cada validador que quieras ejecutar."
 
 #: ../../user-guide/running-l1-clients.rst:394
 msgid ""
@@ -1505,7 +1505,7 @@ msgstr ""
 
 #: ../../user-guide/running-l1-clients.rst:400
 msgid "The first step is to visit the EF Launchpad website to start the process:"
-msgstr ""
+msgstr "El primer paso es visitar el sitio web de EF Launchpad para iniciar el proceso:"
 
 #: ../../user-guide/running-l1-clients.rst:402
 msgid "`https://launchpad.ethereum.org`_"
@@ -1513,11 +1513,11 @@ msgstr ""
 
 #: ../../user-guide/running-l1-clients.rst:406
 msgid "Click **“Become a validator”**"
-msgstr ""
+msgstr "Haga clic en **“Convertirse en validador”**"
 
 #: ../../user-guide/running-l1-clients.rst:408
 msgid "Read carefully and accept all warnings."
-msgstr ""
+msgstr "Lea atentamente y acepte todas las advertencias."
 
 #: ../../user-guide/running-l1-clients.rst:410
 msgid ""
@@ -1527,7 +1527,7 @@ msgstr ""
 
 #: ../../user-guide/running-l1-clients.rst:413
 msgid "Same for the **Consensus Clients**. Click \"Continue\""
-msgstr ""
+msgstr "Lo mismo para los **Clientes de consenso**. "
 
 #: ../../user-guide/running-l1-clients.rst:415
 msgid ""
@@ -1564,7 +1564,7 @@ msgstr ""
 
 #: ../../user-guide/running-l1-clients.rst:436
 msgid "**Again, please, make sure your mnemonic is safe!!!**"
-msgstr ""
+msgstr "**¡¡¡Nuevamente, por favor, asegúrese de que su mnemotécnico esté seguro!!!**"
 
 #: ../../user-guide/running-l1-clients.rst:438
 msgid ""
@@ -1574,7 +1574,7 @@ msgstr ""
 
 #: ../../user-guide/running-l1-clients.rst:440
 msgid "Now you have 2 JSON files under the ``validator_keys`` directory:"
-msgstr ""
+msgstr "Ahora tienes 2 archivos JSON en el directorio ``validator_keys``:"
 
 #: ../../user-guide/running-l1-clients.rst:442
 msgid ""
@@ -1611,11 +1611,11 @@ msgstr ""
 
 #: ../../user-guide/running-l1-clients.rst:462
 msgid "Copy and Paste"
-msgstr ""
+msgstr "copiar y pegar"
 
 #: ../../user-guide/running-l1-clients.rst:464
 msgid "Connected through SSH to your Raspberry Pi, type:"
-msgstr ""
+msgstr "Conectado a través de SSH a tu Raspberry Pi, escribe:"
 
 #: ../../user-guide/running-l1-clients.rst:470
 msgid ""
@@ -1625,11 +1625,11 @@ msgstr ""
 
 #: ../../user-guide/running-l1-clients.rst:473
 msgid "SCP (SSH remote copy)"
-msgstr ""
+msgstr "SCP (copia remota SSH)"
 
 #: ../../user-guide/running-l1-clients.rst:475
 msgid "Pull the file from your desktop through SSH, copy the file:"
-msgstr ""
+msgstr "Extraiga el archivo de su escritorio a través de SSH, copie el archivo:"
 
 #: ../../user-guide/running-l1-clients.rst:481
 msgid ""
@@ -1662,15 +1662,15 @@ msgstr ""
 
 #: ../../user-guide/running-l1-clients.rst:495
 msgid "Congrats!, you just started your validator activation process."
-msgstr ""
+msgstr "¡Felicidades!, acabas de iniciar el proceso de activación del validador."
 
 #: ../../user-guide/running-l2-clients.rst:2
 msgid "Running Layer 2 nodes"
-msgstr ""
+msgstr "Ejecutando nodos de capa 2"
 
 #: ../../user-guide/running-l2-clients.rst:4
 msgid "You can choose several Layer 2 solutions to run an Ethereum L2 node:"
-msgstr ""
+msgstr "Puedes elegir varias soluciones de Capa 2 para ejecutar un nodo Ethereum L2:"
 
 #: ../../user-guide/running-l2-clients.rst:18
 msgid ""
@@ -1692,7 +1692,7 @@ msgstr ""
 
 #: ../../user-guide/running-l2-clients.rst:35
 msgid "Polygon"
-msgstr ""
+msgstr "Polígono"
 
 #: ../../user-guide/running-l2-clients.rst:37
 msgid ""
@@ -1703,7 +1703,7 @@ msgstr ""
 
 #: ../../user-guide/running-l2-clients.rst:41
 msgid "Polygon requires a 4 TB disk to work properly."
-msgstr ""
+msgstr "Polygon requiere un disco de 4 TB para funcionar correctamente."
 
 #: ../../user-guide/running-l2-clients.rst:43
 msgid ""
@@ -1715,34 +1715,34 @@ msgstr ""
 
 #: ../../user-guide/running-l2-clients.rst:47
 msgid "In order to run a Polygon node you need to:"
-msgstr ""
+msgstr "Para ejecutar un nodo Polygon necesitas:"
 
 #: ../../user-guide/running-l2-clients.rst:49
 msgid "Download :guilabel:`Bor` Snapshot"
-msgstr ""
+msgstr "Descargar :guilabel:`Bor` Instantánea"
 
 #: ../../user-guide/running-l2-clients.rst:50
 #: ../../user-guide/running-l2-clients.rst:52
 #: ../../user-guide/running-l2-clients.rst:219
 msgid "Decompress and remove the snapshot"
-msgstr ""
+msgstr "Descomprimir y eliminar la instantánea."
 
 #: ../../user-guide/running-l2-clients.rst:51
 msgid "Download :guilabel:`Heimdall` Snapshot"
-msgstr ""
+msgstr "Descargar :guilabel:`Heimdall` Instantánea"
 
 #: ../../user-guide/running-l2-clients.rst:53
 msgid "Start and sync the :guilabel:`Heimdall` client"
-msgstr ""
+msgstr "Iniciar y sincronizar el cliente :guilabel:`Heimdall`"
 
 #: ../../user-guide/running-l2-clients.rst:54
 msgid "Start and sync the :guilabel:`Bor` client"
-msgstr ""
+msgstr "Iniciar y sincronizar el cliente :guilabel:`Bor`"
 
 #: ../../user-guide/running-l2-clients.rst:57
 #: ../../user-guide/running-l2-clients.rst:226
 msgid "Snapshots"
-msgstr ""
+msgstr "Instantáneas"
 
 #: ../../user-guide/running-l2-clients.rst:59
 msgid ""
@@ -1769,7 +1769,7 @@ msgstr ""
 #: ../../user-guide/running-l2-clients.rst:72
 #: ../../user-guide/running-l2-clients.rst:240
 msgid "Once inside screen, run the download script as the ``ethereum`` user:"
-msgstr ""
+msgstr "Una vez dentro de la pantalla, ejecute el script de descarga como usuario ``ethereum``:"
 
 #: ../../user-guide/running-l2-clients.rst:78
 msgid ""
@@ -1779,7 +1779,7 @@ msgstr ""
 
 #: ../../user-guide/running-l2-clients.rst:81
 msgid "Run the :guilabel:`Heimdall` snapshot script:"
-msgstr ""
+msgstr "Ejecute el script de instantánea :guilabel:`Heimdall`:"
 
 #: ../../user-guide/running-l2-clients.rst:87
 msgid ""
@@ -1790,11 +1790,11 @@ msgstr ""
 #: ../../user-guide/running-l2-clients.rst:91
 #: ../../user-guide/running-l2-clients.rst:250
 msgid "Clients"
-msgstr ""
+msgstr "Clientes"
 
 #: ../../user-guide/running-l2-clients.rst:93
 msgid "Start the :guilabel:`Heimdall` service and check the logs:"
-msgstr ""
+msgstr "Inicie el servicio :guilabel:`Heimdall` y verifique los registros:"
 
 #: ../../user-guide/running-l2-clients.rst:101
 msgid ""
@@ -1804,15 +1804,15 @@ msgstr ""
 
 #: ../../user-guide/running-l2-clients.rst:104
 msgid "Once synced start the :guilabel:`Bor` service and, again, check the logs"
-msgstr ""
+msgstr "Una vez sincronizado, inicie el servicio :guilabel:`Bor` y, nuevamente, verifique los registros"
 
 #: ../../user-guide/running-l2-clients.rst:111
 msgid "Congrats, you are running a Polygon node."
-msgstr ""
+msgstr "Felicitaciones, estás ejecutando un nodo Polygon."
 
 #: ../../user-guide/running-l2-clients.rst:114
 msgid "Arbitrum"
-msgstr ""
+msgstr "Arbitraje"
 
 #: ../../user-guide/running-l2-clients.rst:116
 msgid ""
@@ -1826,20 +1826,20 @@ msgstr ""
 
 #: ../../user-guide/running-l2-clients.rst:121
 msgid "The Arbitrum :guilabel:`Nitro` client is available."
-msgstr ""
+msgstr "El cliente Arbitrum :guilabel:`Nitro` está disponible."
 
 #: ../../user-guide/running-l2-clients.rst:124
 msgid "You need a L1 node to connect to in order to run an Arbitrum node."
-msgstr ""
+msgstr "Necesita un nodo L1 al que conectarse para ejecutar un nodo Arbitrum."
 
 #: ../../user-guide/running-l2-clients.rst:126
 msgid "First step is to set the IP for your L1 Ethereum node:"
-msgstr ""
+msgstr "El primer paso es configurar la IP para su nodo Ethereum L1:"
 
 #: ../../user-guide/running-l2-clients.rst:132
 #: ../../user-guide/running-l2-clients.rst:258
 msgid "For example:"
-msgstr ""
+msgstr "Por ejemplo:"
 
 #: ../../user-guide/running-l2-clients.rst:138
 msgid ""
@@ -1855,11 +1855,11 @@ msgstr ""
 
 #: ../../user-guide/running-l2-clients.rst:151
 msgid "The Arbitrum node is up and running."
-msgstr ""
+msgstr "El nodo Arbitrum está en funcionamiento."
 
 #: ../../user-guide/running-l2-clients.rst:154
 msgid "Starknet"
-msgstr ""
+msgstr "Red estelar"
 
 #: ../../user-guide/running-l2-clients.rst:156
 msgid ""
@@ -1880,7 +1880,7 @@ msgstr ""
 
 #: ../../user-guide/running-l2-clients.rst:164
 msgid "You can start the client just by running the systemd service:"
-msgstr ""
+msgstr "Puedes iniciar el cliente simplemente ejecutando el servicio systemd:"
 
 #: ../../user-guide/running-l2-clients.rst:172
 msgid "Gnosis"
@@ -1909,15 +1909,15 @@ msgstr ""
 
 #: ../../user-guide/running-l2-clients.rst:190
 msgid "And"
-msgstr ""
+msgstr "y"
 
 #: ../../user-guide/running-l2-clients.rst:197
 msgid "Remember to forward the default ports: `9000` and `30303`"
-msgstr ""
+msgstr "Recuerde reenviar los puertos predeterminados: `9000` y `30303`"
 
 #: ../../user-guide/running-l2-clients.rst:200
 msgid "Optimism"
-msgstr ""
+msgstr "Optimismo"
 
 #: ../../user-guide/running-l2-clients.rst:202
 msgid ""
@@ -1943,31 +1943,31 @@ msgstr ""
 
 #: ../../user-guide/running-l2-clients.rst:214
 msgid "You need access to a synced Ethereum L1 node."
-msgstr ""
+msgstr "Necesita acceso a un nodo Ethereum L1 sincronizado."
 
 #: ../../user-guide/running-l2-clients.rst:216
 msgid "In order to run an Optimism node you need to:"
-msgstr ""
+msgstr "Para ejecutar un nodo Optimismo es necesario:"
 
 #: ../../user-guide/running-l2-clients.rst:218
 msgid "Download :guilabel:`Op-Geth` Snapshot"
-msgstr ""
+msgstr "Descargar :guilabel:`Op-Geth` Instantánea"
 
 #: ../../user-guide/running-l2-clients.rst:220
 msgid "Set the L1 node IP"
-msgstr ""
+msgstr "Establecer la IP del nodo L1"
 
 #: ../../user-guide/running-l2-clients.rst:221
 msgid "Start and sync the :guilabel:`Op-Geth` client"
-msgstr ""
+msgstr "Iniciar y sincronizar el cliente :guilabel:`Op-Geth`"
 
 #: ../../user-guide/running-l2-clients.rst:222
 msgid "Start and sync the :guilabel:`Op-Node` client"
-msgstr ""
+msgstr "Iniciar y sincronizar el cliente :guilabel:`Op-Node`"
 
 #: ../../user-guide/running-l2-clients.rst:223
 msgid "(Optional) Start the :guilabel:`L2Geth` client (not available yet)"
-msgstr ""
+msgstr "(Opcional) Inicie el cliente :guilabel:`L2Geth` (aún no disponible)"
 
 #: ../../user-guide/running-l2-clients.rst:228
 msgid ""
@@ -1983,27 +1983,27 @@ msgstr ""
 
 #: ../../user-guide/running-l2-clients.rst:252
 msgid "Set the synced IP L1 ethereum node:"
-msgstr ""
+msgstr "Configure el nodo ethereum IP L1 sincronizado:"
 
 #: ../../user-guide/running-l2-clients.rst:264
 msgid "Start the :guilabel:`Op-Geth` service and check the logs:"
-msgstr ""
+msgstr "Inicie el servicio :guilabel:`Op-Geth` y verifique los registros:"
 
 #: ../../user-guide/running-l2-clients.rst:272
 msgid "The order is important. Please run :guilabel:`Op-Geth` first."
-msgstr ""
+msgstr "El orden es importante. "
 
 #: ../../user-guide/running-l2-clients.rst:274
 msgid "Now, start the :guilabel:`Op-Node` client:"
-msgstr ""
+msgstr "Ahora, inicie el cliente :guilabel:`Op-Node`:"
 
 #: ../../user-guide/running-l2-clients.rst:281
 msgid "Congrats, you are now running an Optimism Bedrock node."
-msgstr ""
+msgstr "Felicitaciones, ahora está ejecutando un nodo Optimism Bedrock."
 
 #: ../../user-guide/running-web3-stack.rst:2
 msgid "Running web3 stack"
-msgstr ""
+msgstr "Ejecutando la pila web3"
 
 #: ../../user-guide/running-web3-stack.rst:4
 msgid ""
@@ -2061,7 +2061,7 @@ msgstr ""
 
 #: ../../user-guide/running-web3-stack.rst:45
 msgid "Swarm"
-msgstr ""
+msgstr "enjambre"
 
 #: ../../user-guide/running-web3-stack.rst:47
 msgid ""
@@ -2081,7 +2081,7 @@ msgstr ""
 
 #: ../../user-guide/running-web3-stack.rst:61
 msgid "Status"
-msgstr ""
+msgstr "Estado"
 
 #: ../../user-guide/running-web3-stack.rst:63
 msgid ""
@@ -2109,11 +2109,11 @@ msgstr ""
 
 #: ../../user-guide/security.rst:5
 msgid "Node Security"
-msgstr ""
+msgstr "Seguridad del nodo"
 
 #: ../../user-guide/security.rst:8
 msgid "User account"
-msgstr ""
+msgstr "cuenta de usuario"
 
 #: ../../user-guide/security.rst:10
 msgid ""
@@ -2126,7 +2126,7 @@ msgstr ""
 
 #: ../../user-guide/security.rst:14
 msgid "You can access the device using a keyboard / monitor or through SSH."
-msgstr ""
+msgstr "Puedes acceder al dispositivo mediante un teclado/monitor o mediante SSH."
 
 #: ../../user-guide/security.rst:17
 msgid "UFW"
@@ -2146,7 +2146,7 @@ msgstr ""
 
 #: ../../user-guide/storage.rst:5
 msgid "Storage"
-msgstr ""
+msgstr "Almacenamiento"
 
 #: ../../user-guide/storage.rst:7
 msgid ""
@@ -2156,23 +2156,23 @@ msgstr ""
 
 #: ../../user-guide/storage.rst:11
 msgid "NanoPC T4, Rock 5B and Orange Pi 5 plus"
-msgstr ""
+msgstr "NanoPC T4, Rock 5B y Orange Pi 5 plus"
 
 #: ../../user-guide/storage.rst:13
 msgid "These boards includes 4x M.2 2280 NVMe disk support."
-msgstr ""
+msgstr "Estas placas incluyen soporte para discos NVMe 4x M.2 2280."
 
 #: ../../user-guide/storage.rst:16
 msgid "Orange Pi 5"
-msgstr ""
+msgstr "Naranja Pi 5"
 
 #: ../../user-guide/storage.rst:18
 msgid "This board includes 1x M.2 2245 NVMe disk support."
-msgstr ""
+msgstr "Esta placa incluye 1 soporte de disco NVMe M.2 2245."
 
 #: ../../user-guide/storage.rst:21
 msgid "Raspberry Pi 4"
-msgstr ""
+msgstr "Frambuesa Pi 4"
 
 #: ../../user-guide/storage.rst:23
 msgid ""
@@ -2183,7 +2183,7 @@ msgstr ""
 
 #: ../../user-guide/storage.rst:27
 msgid "Use an USB portable SSD disk such as the Samsung Portable T5 SSDs."
-msgstr ""
+msgstr "Utilice un disco SSD portátil USB como los SSD Samsung Portable T5."
 
 #: ../../user-guide/storage.rst:28
 msgid ""
@@ -2226,7 +2226,7 @@ msgstr ""
 
 #: ../../user-guide/troubleshooting.rst:5
 msgid "Troubleshooting"
-msgstr ""
+msgstr "Solución de problemas"
 
 #: ../../user-guide/troubleshooting.rst:7
 msgid ""
@@ -2237,7 +2237,7 @@ msgstr ""
 
 #: ../../user-guide/troubleshooting.rst:12
 msgid "EOA Check script"
-msgstr ""
+msgstr "script de verificación EOA"
 
 #: ../../user-guide/troubleshooting.rst:14
 msgid ""
@@ -2282,7 +2282,7 @@ msgstr ""
 
 #: ../../user-guide/troubleshooting.rst:44
 msgid "Discord Channel"
-msgstr ""
+msgstr "Canal de discordia"
 
 #: ../../user-guide/troubleshooting.rst:46
 msgid ""
@@ -2293,11 +2293,11 @@ msgstr ""
 
 #: ../../user-guide/troubleshooting.rst:49
 msgid "`EOA Discord channel`_"
-msgstr ""
+msgstr "`Canal de discordia EOA`_"
 
 #: ../../user-guide/using-your-node.rst:5
 msgid "Using your node"
-msgstr ""
+msgstr "Usando tu nodo"
 
 #: ../../user-guide/using-your-node.rst:7
 msgid ""
@@ -2319,7 +2319,7 @@ msgstr ""
 
 #: ../../user-guide/using-your-node.rst:23
 msgid "SSL config"
-msgstr ""
+msgstr "configuración SSL"
 
 #: ../../user-guide/using-your-node.rst:25
 msgid ""
@@ -2331,7 +2331,7 @@ msgstr ""
 
 #: ../../user-guide/using-your-node.rst:30
 msgid "Sending transactions"
-msgstr ""
+msgstr "Envío de transacciones"
 
 #: ../../user-guide/using-your-node.rst:32
 msgid ""
@@ -2347,23 +2347,23 @@ msgstr ""
 
 #: ../../user-guide/using-your-node.rst:37
 msgid "Click **\"Add Network\"** button."
-msgstr ""
+msgstr "Haga clic en el botón **\"Agregar red\"**."
 
 #: ../../user-guide/using-your-node.rst:43
 msgid "Click **\"Add a network manually\"** at the page bottom."
-msgstr ""
+msgstr "Haga clic en **\"Agregar una red manualmente\"** en la parte inferior de la página."
 
 #: ../../user-guide/using-your-node.rst:49
 msgid "Fill in with your node data."
-msgstr ""
+msgstr "Complete con los datos de su nodo."
 
 #: ../../user-guide/using-your-node.rst:55
 msgid "For instance. This is a configured local node:"
-msgstr ""
+msgstr "Por ejemplo. "
 
 #: ../../user-guide/using-your-node.rst:62
 msgid "Querying the blockchain"
-msgstr ""
+msgstr "Consultando la cadena de bloques"
 
 #: ../../user-guide/using-your-node.rst:64
 msgid ""
@@ -2373,5 +2373,6 @@ msgstr ""
 
 #: ../../user-guide/using-your-node.rst:67
 msgid "Replace ``$YOUR_NODE_IP`` for your node IP address."
-msgstr ""
+msgstr "Reemplace ``$YOUR_NODE_IP`` por la dirección IP de su nodo."
+
 

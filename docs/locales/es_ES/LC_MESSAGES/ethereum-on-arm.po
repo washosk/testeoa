@@ -23,23 +23,23 @@ msgstr ""
 
 #: ../../ethereum-on-arm/main-features.rst:5
 msgid "Main Features"
-msgstr ""
+msgstr "Características principales"
 
 #: ../../ethereum-on-arm/main-features.rst:7
 msgid "These are the main features of Ethereum on ARM images:"
-msgstr ""
+msgstr "Estas son las características principales de Ethereum en imágenes ARM:"
 
 #: ../../ethereum-on-arm/main-features.rst:9
 msgid "Based on Ubuntu 20.04 for ARM64"
-msgstr ""
+msgstr "Basado en Ubuntu 20.04 para ARM64"
 
 #: ../../ethereum-on-arm/main-features.rst:10
 msgid "Automatic configuration (network, user account, etc)"
-msgstr ""
+msgstr "Configuración automática (red, cuenta de usuario, etc)"
 
 #: ../../ethereum-on-arm/main-features.rst:11
 msgid "Automatic USB disk partitioning and formatting"
-msgstr ""
+msgstr "Partición y formateo automático de discos USB"
 
 #: ../../ethereum-on-arm/main-features.rst:12
 msgid ""
@@ -49,7 +49,7 @@ msgstr ""
 
 #: ../../ethereum-on-arm/main-features.rst:14
 msgid "Automatically starts Ethereum 1.0 sync (Geth)"
-msgstr ""
+msgstr "Inicia automáticamente la sincronización de Ethereum 1.0 (Geth)"
 
 #: ../../ethereum-on-arm/main-features.rst:15
 msgid ""
@@ -59,23 +59,23 @@ msgstr ""
 
 #: ../../ethereum-on-arm/main-features.rst:16
 msgid "Includes an APT repository for installing and upgrading Ethereum software"
-msgstr ""
+msgstr "Incluye un repositorio APT para instalar y actualizar el software Ethereum"
 
 #: ../../ethereum-on-arm/main-features.rst:17
 msgid "Includes EF eth2.0-deposit-cli tool to start staking process"
-msgstr ""
+msgstr "Incluye la herramienta EF eth2.0-deposit-cli para iniciar el proceso de participación"
 
 #: ../../ethereum-on-arm/main-features.rst:18
 msgid "Includes monitoring dashboards based on Grafana / Prometheus"
-msgstr ""
+msgstr "Incluye paneles de seguimiento basados ​​en Grafana/Prometheus"
 
 #: ../../ethereum-on-arm/main-features.rst:19
 msgid "Includes UFW firewall"
-msgstr ""
+msgstr "Incluye cortafuegos UFW"
 
 #: ../../ethereum-on-arm/main-goals.rst:5
 msgid "Main Goals"
-msgstr ""
+msgstr "Objetivos principales"
 
 #: ../../ethereum-on-arm/main-goals.rst:7
 msgid ""
@@ -100,11 +100,11 @@ msgstr ""
 
 #: ../../ethereum-on-arm/sources.rst:5
 msgid "Sources"
-msgstr ""
+msgstr "Fuentes"
 
 #: ../../ethereum-on-arm/sources.rst:7
 msgid "You can get the source code in our Github repo:"
-msgstr ""
+msgstr "Puedes obtener el código fuente en nuestro repositorio de Github:"
 
 #: ../../ethereum-on-arm/sources.rst:9
 msgid "https://github.com/diglos/ethereumonarm"
@@ -112,11 +112,11 @@ msgstr ""
 
 #: ../../ethereum-on-arm/sources.rst:11
 msgid "You can find here:"
-msgstr ""
+msgstr "Puedes encontrarlo aquí:"
 
 #: ../../ethereum-on-arm/sources.rst:13
 msgid "docs: This Read the Docs based guide"
-msgstr ""
+msgstr "docs: esta guía basada en Lea la documentación"
 
 #: ../../ethereum-on-arm/sources.rst:14
 msgid ""
@@ -132,11 +132,11 @@ msgstr ""
 
 #: ../../ethereum-on-arm/sources.rst:17
 msgid "Get more info in our Developer Guide section"
-msgstr ""
+msgstr "Obtén más información en nuestra sección Guía para desarrolladores"
 
 #: ../../ethereum-on-arm/why-arm-boards.rst:5
 msgid "Why ARM Boards"
-msgstr ""
+msgstr "Por qué las placas ARM"
 
 #: ../../ethereum-on-arm/why-arm-boards.rst:7
 msgid ""
@@ -146,7 +146,7 @@ msgstr ""
 
 #: ../../ethereum-on-arm/why-arm-boards.rst:9
 msgid "Ethereum On ARM PnP images, just flash & power up"
-msgstr ""
+msgstr "Ethereum En imágenes ARM PnP, solo flash"
 
 #: ../../ethereum-on-arm/why-arm-boards.rst:10
 msgid ""
@@ -169,4 +169,5 @@ msgstr ""
 #: ../../ethereum-on-arm/why-arm-boards.rst:14
 msgid "Great for running 24/7: Small, affordable and low power comsuption"
 msgstr ""
+
 
